@@ -1,9 +1,7 @@
 # Multi Tenant Role Based Access Control (RBAC) Authentication API
 
-## Sponsor
-<img src="./img/neon.svg" />
-
-Thank you to [Neon](https://bit.ly/tomdoestech) for sponsoring this video!
+## Source
+[Build a Multi-tenanted, Role-Based Access Control System (yt @TomDoesTech)](https://youtu.be/b6VhN_HHDiQ) 
 
 ## Features
 * Create an application
@@ -20,11 +18,6 @@ Thank you to [Neon](https://bit.ly/tomdoestech) for sponsoring this video!
 * [PostgreSQL](https://www.postgresql.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 
-## What you'll need
-* Editor - [VS Code](https://code.visualstudio.com/download)
-* Node.js - [Download](https://nodejs.org/en/download/)
-* A database - [PostgreSQL by Neon](https://bit.ly/tomdoestech)
-* A REST client - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ## What you will learn
 * How to create a multi tenant application
@@ -61,4 +54,3 @@ Thank you to [Neon](https://bit.ly/tomdoestech) for sponsoring this video!
 ## Tips
 * Infer the applicationId from the JWT where possible
 * Include the applicationId in queries
-# user-api
